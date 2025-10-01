@@ -41,21 +41,7 @@ Manage running processes
 
 🗂 Project Structure
 
-BuddyBug-AI/
-│
-├── Brain/
-│   ├── ai.py
-│   ├── processor.py
-│   └── question_bank.json
-│
-├── Head/
-│   ├── Ear.py
-│   └── Mouth.py
-│
-├── main.py
-├── gui_main.py
-├── config.py
-└── requirements.txt
+<img width="299" height="395" alt="image" src="https://github.com/user-attachments/assets/95397e07-dbfb-4f36-a64e-fb8e1361efd5" />
 
 ---
 
