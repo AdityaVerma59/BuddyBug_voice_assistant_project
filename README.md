@@ -42,17 +42,20 @@ Manage running processes
 🗂 Project Structure
 
 BuddyBug-AI/
+│
 ├── Brain/
-│   ├── ai.py              # Hugging Face AI integration
-│   ├── processor.py       # Command processing engine
-│   └── question_bank.json # Local response database
+│   ├── ai.py
+│   ├── processor.py
+│   └── question_bank.json
+│
 ├── Head/
-│   ├── Ear.py             # Speech recognition
-│   └── Mouth.py           # Text-to-speech
-├── main.py                # Command-line mode
-├── gui_main.py            # GUI mode
-├── config.py              # Config + API keys
-└── requirements.txt       # Dependencies
+│   ├── Ear.py
+│   └── Mouth.py
+│
+├── main.py
+├── gui_main.py
+├── config.py
+└── requirements.txt
 
 ---
 
